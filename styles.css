@@ -1,1 +1,47 @@
 /*  your css code here. If applicable */
+ body {
+    background-color: #c5ccc0;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+  }
+  .wrapper {
+    width: 1100px;
+  }
+  .imageContainer {
+    width: 1100px;
+    margin-bottom: 8px;
+  }
+  .imageContainer img {
+    width: 500px;
+    height: 230px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 1000px;
+    background-color: #d6dbd2;
+  }
+  td {
+    border: 1px solid #b0b8aa;
+    padding: 6px;
+    vertical-align: top;
+  }
+  td.mid {
+    text-align: center;
+    vertical-align: middle;
+  }
+  .side-img {
+    width: 180px;
+    height: 120px;
+  }
+  .spiral-img {
+    width: 185px;
+    height: 140px;
+  }
+  .side-text {
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  .learn {
+    color: #5555bb;
+    font-size: 12px;
+  }
